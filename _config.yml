@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-8112-9110"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "lingyumeng.app" # Replace this with you Bluesky username 
+  bluesky          : "lingyumeng" # Replace this with you Bluesky username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,7 +80,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : 如在梦中 # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
