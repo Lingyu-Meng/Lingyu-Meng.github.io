@@ -2,6 +2,7 @@
 title: "Impulsivity Enhances Random Exploration and Boosts Performance in Loss but not Gain Contexts"
 collection: publications
 category: conferences
+permalink: /publication/2026-02-Impulsivity Enhances Random Exploration and Boosts Performance in Loss but not Gain Contexts.md
 excerpt: 'This paper is an abstract of a conference presentation. It is my master's dissertation work.'
 date: 2026-02
 venue: 'Journal of Computational Neuroscience'
