@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "lingyumeng" # Replace this with you Bluesky username 
+  bluesky          : "lingyumeng.bsky.social" # Replace this with you Bluesky username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,7 +80,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : 如在梦中 # Username
+  zhihu            : "如在梦中"# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
