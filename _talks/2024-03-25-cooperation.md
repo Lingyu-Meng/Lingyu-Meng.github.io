@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/2024-03-25-cooperation
 venue: "the Society for Social Neuroscience (S4SN) Annual Meeting"
 date: 2012-03-01
-location: "Tsukuba, Ibaraki, Japan"
+location: "Tsukuba, Japan"
 ---
 
 This is a poster presentation regarding a pre-registered study. I designed this study for a PhD application.
