@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Psychology, Université Libre de Bruxelles, Belgium, 2030 (expected)
+* M.S. in Systems Neuroscience, University of Sheffield, UK, 2024 (Top 1 in Cohort)
+* B.S. in Statistics, Beijing Technology and Business University, China, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2025 - 06/2025: Visiting Student
+  * Beijing Normal University
+  * Duties includes: Data Acquisition, Analysis (fNIRS)
+  * Supervisor: Prof. Chao Liu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11/2024 - 04/2025: Visiting Student
+  * University of Birmingham
+  * Duties includes: Data Acquisition (Lab-Based)
+  * Supervisor: Prof. Lei Zhang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2022 - 04/2023: Research Assistant
+  * Beijing Normal University
+  * Duties included: Data Analysis (iEEG)
+  * Supervisor: Prof. Yina Ma
+
+* 06/2021 - 08/2022: Visiting Student
+  * Beijing Normal University
+  * Duties included: Programmed evolution models (Agent-Based Modelling)
+  * Supervisor: Prof. Yina Ma
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Acquisition
+* Data Analysis
+  * Frequentist and Bayesian statistics
+  * Machine Learning
+  * Cognitive Modelling
+* Programming
+  * Matlab
+  * R
+  * Python
+  * Shell Scripting
 
 Publications
 ======
@@ -61,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chairman, Debate Society, Beijing Technology and Business University, 2019 - 2020
