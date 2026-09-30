@@ -17,25 +17,30 @@ Education
 
 Work experience
 ======
-* 08/2025 - 06/2025: Visiting Student
+* 08/2025 - 06/2026: Visiting Student
   * Beijing Normal University
   * Duties includes: Data Acquisition, Analysis (fNIRS)
-  * Supervisor: Prof. Chao Liu
+  * Supervisor: Prof. Chao Liu, [SAN Lab](https://liuchaolab.bnu.edu.cn/enNEWS/)
+
+* 08/2025 - 05/2026: Remote Research Assistant
+  * Royal Holloway, University of London
+  * Duties includes: Data Analysis (Meta-Analysis)
+  * Supervisor: Prof. Hirotaka Imada, [CIP Lab](https://himada2018.github.io/ciplab/)
 
 * 11/2024 - 04/2025: Visiting Student
   * University of Birmingham
   * Duties includes: Data Acquisition (Lab-Based)
-  * Supervisor: Prof. Lei Zhang
+  * Supervisor: Prof. Lei Zhang, [ALPN Lab](https://alpn-lab.github.io/)
 
 * 08/2022 - 04/2023: Research Assistant
   * Beijing Normal University
   * Duties included: Data Analysis (iEEG)
-  * Supervisor: Prof. Yina Ma
+  * Supervisor: Prof. Yina Ma, [SANP Lab](https://mylab.bnu.edu.cn/)
 
 * 06/2021 - 08/2022: Visiting Student
   * Beijing Normal University
   * Duties included: Programmed evolution models (Agent-Based Modelling)
-  * Supervisor: Prof. Yina Ma
+  * Supervisor: Prof. Yina Ma, [SANP Lab](https://mylab.bnu.edu.cn/)
   
 Skills
 ======
