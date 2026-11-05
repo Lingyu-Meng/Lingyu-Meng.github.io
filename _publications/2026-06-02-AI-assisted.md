@@ -7,8 +7,7 @@ excerpt: 'This paper is a big team work. I contributed to the replication of an 
 date: 2026-06-02
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2524747123'
-citation: 
-'Brodeur, A., Valenta, D., Marcoci, A., Aparicio, J. P., Mikola, D., Barbarioli, B., Alexander, R., Deer, L., Stafford, T., Vilhuber, L., Bensch, G., Motoki, F., Abdelhady, M., Abdelmoula, Y., Baki, G. A., Aguirre, T., Aiyer, S., Akhtar, S., Akhtar, F., … Zozoungbo, C. (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. Proceedings of the National Academy of Sciences, 123(22), e2524747123. https://doi.org/10.1073/pnas.2524747123'
+citation: 'Brodeur, A., Valenta, D., Marcoci, A., Aparicio, J. P., Mikola, D., Barbarioli, B., Alexander, R., Deer, L., Stafford, T., Vilhuber, L., Bensch, G., Motoki, F., Abdelhady, M., Abdelmoula, Y., Baki, G. A., Aguirre, T., Aiyer, S., Akhtar, S., Akhtar, F., … Zozoungbo, C. (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. Proceedings of the National Academy of Sciences, 123(22), e2524747123. https://doi.org/10.1073/pnas.2524747123'
 ---
 
 # Abstract
